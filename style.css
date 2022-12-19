@@ -31,6 +31,7 @@ h2 {
     margin-left: 1rem;
     margin-right: 1rem;
     margin-bottom: 1rem;
+    color : hsl(218, 44%, 22%);
 
 }
 p {
@@ -39,4 +40,5 @@ p {
     margin-bottom: 1.5rem;
     margin-left: 1rem;
     margin-right: 1rem;
+    color: hsl(220, 15%, 55%)
 }
